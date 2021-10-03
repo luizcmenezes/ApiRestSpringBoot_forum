@@ -1,0 +1,17 @@
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/modelo/Curso.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/config/validacao/ErroDeFormularioDto.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/modelo/StatusTopico.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/config/validacao/ErroDeValidacaoHandler.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/dto/TopicoDto.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/repository/TopicoRepository.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/dto/RespostaDto.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/modelo/Topico.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/HelloController.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/TopicosController.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/repository/CursoRepository.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/modelo/Resposta.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/dto/DetalhesDoTopicoDto.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/form/AtualizacaoTopicoForm.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/modelo/Usuario.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/controller/form/TopicoForm.java
+/home/luizsantos/IdeaProjects/java/ApiRestSpringBoot_forum/src/main/java/br/com/alura/forum/ForumApplication.java
